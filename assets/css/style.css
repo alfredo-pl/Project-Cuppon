@@ -1,0 +1,73 @@
+/*VAR*/
+:root{
+  --white: #fff;
+  --light:#F8F9FA;
+  --success:#28a745;
+  --colora:#212529;
+  --colorb:#707070;
+}
+/*GLOBAL*/
+body {
+  font-family: 'Roboto', sans-serif;
+}
+h1{
+  font-weight: 700;
+  color: var(--colorb); 
+  font-size: 50px;
+}
+/*NAV*/
+.success{
+  background-color: var(--success);
+}
+.navbar-brand img{
+  height: 25px;
+}
+
+/*CONTENT*/
+.content{
+  margin-top: 100px;
+  text-align: center;
+}
+.center{
+  margin: 0px auto;
+}
+
+
+/*CARD*/
+.card-title{
+  font-weight: 300;
+  color: var(--colora);
+}
+
+@media (min-width: 400px) {
+  .card{
+    width: 20rem!important;
+  }
+}
+.card-body p, .card-body p small{
+  color: var(--colorb);
+  font-weight: 300;
+}
+.card-body p span{
+  color: var(--success);
+  font-weight: 700;
+  font-size: 20px;
+  margin-left: 4px;
+}
+/*FORM*/
+form input{
+  font-weight: 300!important;
+  color: var(--colorb)!important;
+}
+
+/*FOOTER*/
+footer{
+  background-color: var(--white);
+  font-weight: 300;
+  color: var(--colorb);
+}
+footer img{
+height: 25px;
+margin: 20px 0px;
+
+}
