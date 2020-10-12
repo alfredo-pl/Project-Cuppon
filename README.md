@@ -1,4 +1,4 @@
-# Proyect-Cuppon
+# Project-Cuppon
 
  >**Nota** _Readme.md para la presentación de mi proyecto._
  
@@ -7,7 +7,7 @@
 ```
 
 ## ¡Vé Ahora!
-Verás la vista final en [Proyecto Cuppon](https://alfredo-pl.github.io/Proyect-Cuppon/)
+Verás la vista final en [Proyecto Cuppon](https://alfredo-pl.github.io/Project-Cuppon/)
 
  
 ## Requisitos
